@@ -1,7 +1,7 @@
 ### Hello, I'm Arthur Kaizer
 
 
-- 🔭 I’m currently working on C#  
+- 🔭 I’m currently working on java  
 - 🌱 I’m currently learning flutter
 - 💬 Ask me about arturkaizer@gmail.com
 
