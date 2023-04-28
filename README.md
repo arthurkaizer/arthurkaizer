@@ -1,9 +1,9 @@
 ### Hello, I'm Arthur Kaizer
 
 
-- 🔭 I’m currently working on java  
+- 🔭 I’m currently working on Java  
 - 🌱 I’m currently learning flutter
-- 💬 Ask me about arturkaizer@gmail.com
+- 💬 Ask me about arthurckaizer@gmail.com
 
 <div align="center">
   <a href="https://github.com/arthurkaizer">
