@@ -1,8 +1,6 @@
 ### Hello, I'm Arthur Kaizer
 
-
-- 🔭 I’m currently working on Java  
-- 🌱 I’m currently learning flutter
+I'm a computer science student and here I put some projects and programs I've done to apply the knowledge acquired
 - 💬 Ask me about arthurckaizer@gmail.com
 
 <div align="center">
